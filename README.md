@@ -8,7 +8,8 @@
 
 <h2>Overview</h2>
 Clothing store home page.
-![ScreenShoot Desktop Version](./CSS/assets/screenshot.png)
+
+![ScreenShoot Desktop Version](CSS/assets/screenshot.png)
 
 <h2>Built with:</h2>
 
